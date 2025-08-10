@@ -1,6 +1,7 @@
 ## About Me
 
-Hello, I'm **Raz Cohen**!
+Hello, I'm **Raz Cohen!**
+
 **2nd-year Computer Science student** (Cybersecurity program)  
 Passionate about building robust software, solving complex problems, and exploring new technologies  
 Experienced with **Python, C++, Java, C** and hands-on network analysis & security simulations
