@@ -1,25 +1,57 @@
 ## Hi, I'm Raz Cohen!
-**2nd-year Computer Science student** (Cybersecurity program)  
-Experienced in **Python, C++, Java, C**, with hands-on network analysis & security simulations.
+**3rd-year Computer Science student** in the Cybersecurity track.  
+Proficient in **Python, C++, Java and C**, with hands-on experience in network analysis, security simulations, and software development projects.
 
 ---
 
-## Tech Stack
+## Tech Stack  
+
+**Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Databases**  
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+
+**Tools & Environments**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 ---
 
-## Featured Projects
-- **[Coup-Game](https://github.com/Raz99/Coup-Game)** – C++ board game with SFML GUI & OOP patterns.  
-- **[Reversi-Game](https://github.com/Raz99/Reversi-Game)** – Java Othello with AI and custom discs.  
-- **[Ransomware-Detector](https://github.com/Raz99/Ransomware-Detector)** – Real-time detection of ransomware-like activity.  
-- **[Network-Traffic-Analysis](https://github.com/Raz99/Network-Traffic-Analysis)** – Encrypted traffic fingerprinting via Wireshark.
+## Key Projects  
+
+- **[Ransomware-Detector](https://github.com/Raz99/Ransomware-Detector)**  
+  Python security tool for **real-time ransomware detection**, using filesystem monitoring, entropy analysis, fuzzy-hashing and honeypots to flag suspicious encryption activity.  
+
+- **[Atom-Molecule-System](https://github.com/Raz99/Atom-Molecule-System)**  
+  Concurrent C server simulating an **atom-molecule model**, featuring TCP, UDP & Unix domain sockets, shared-memory persistence and a command-driven protocol.  
+
+- **[Reversi-Game](https://github.com/Raz99/Reversi-Game)**  
+  Extended Java Othello game with **custom disc mechanics**, AI opponents and a Swing-based GUI, developed as part of an Object-Oriented Programming project.  
+
+- **[Coup-Game](https://github.com/Raz99/Coup-Game)**  
+  C++ implementation of the **popular Coup card game**, built with SFML for GUI and designed with OOP patterns (inheritance & polymorphism).  
+
+- **[Network-Traffic-Analysis](https://github.com/Raz99/Network-Traffic-Analysis)**  
+  Research project analyzing **encrypted network traffic** via Wireshark & TLS key decryption, comparing application patterns and fingerprinting techniques.  
 
 ---
 
 ## Contact
-[LinkedIn](https://www.linkedin.com/in/raz-cohen-p/) | [Email](mailto:RazCohenP@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/raz-cohen-p)  
+- [Email](mailto:RazCohenP@gmail.com)  
+- [GitHub](https://github.com/Raz99)  
