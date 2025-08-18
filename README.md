@@ -52,6 +52,4 @@ Proficient in **Python, C++, Java and C**, with hands-on experience in network a
 ---
 
 ## Contact
-- [LinkedIn](https://www.linkedin.com/in/raz-cohen-p)  
-- [Email](mailto:RazCohenP@gmail.com)  
-- [GitHub](https://github.com/Raz99)  
+- [LinkedIn](https://www.linkedin.com/in/raz-cohen-p) | [Email](mailto:RazCohenP@gmail.com) | [GitHub](https://github.com/Raz99)
