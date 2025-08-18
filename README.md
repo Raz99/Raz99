@@ -1,6 +1,7 @@
 ## Hi, I'm Raz Cohen!
 **3rd-year Computer Science student** in the Cybersecurity track.  
-Proficient in **Python, C++, Java and C**, with hands-on experience in network analysis, security simulations, and software development projects.
+Proficient in **Python, C++, Java and C**, experienced in software testing and automation.
+Strong background in algorithms, databases and network security, applied through practical projects and independent work.
 
 ---
 
