@@ -1,6 +1,6 @@
 ## Hi, I'm Raz Cohen!
 **3rd-year Computer Science student** in Cyber Security program.  
-Proficient in **Python, C/C++ and Java**, with experience in manual and automated software testing.
+Proficient in **Python, C/C++ and Java**, with experience in manual and automated software testing.  
 Background in network security, system programming, object-oriented programming and databases through various projects.
 
 ---
