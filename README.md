@@ -1,7 +1,7 @@
 ## Hi, I'm Raz Cohen!
-**3rd-year Computer Science student** in the Cybersecurity track.  
-Proficient in **Python, C++, Java and C**, experienced in software testing and automation.
-Strong background in algorithms, databases and network security, applied through practical projects and independent work.
+**3rd-year Computer Science student** in Cyber Security program.  
+Proficient in **Python, C/C++ and Java**, with experience in manual and automated software testing.
+Background in network security, system programming, object-oriented programming and databases through various projects.
 
 ---
 
@@ -35,19 +35,22 @@ Strong background in algorithms, databases and network security, applied through
 
 ## Key Projects  
 
-- **[Ransomware-Detector](https://github.com/Raz99/Ransomware-Detector)**  
-  Python security tool for **real-time ransomware detection**, using filesystem monitoring, entropy analysis, fuzzy-hashing and honeypots to flag suspicious encryption activity.  
+- **[Ransomware-Detector](https://github.com/Raz99/Ransomware-Detector) (Python | Security)**  
+  Python security tool for **real-time ransomware detection**, using filesystem monitoring, entropy analysis, fuzzy-hashing and honeypots to flag suspicious encryption activity.
 
-- **[Atom-Molecule-System](https://github.com/Raz99/Atom-Molecule-System)**  
-  Concurrent C server simulating an **atom-molecule model**, featuring TCP, UDP & Unix domain sockets, shared-memory persistence and a command-driven protocol.  
+- **[Atom-Molecule-System](https://github.com/Raz99/Atom-Molecule-System) (C | Systems, Network)**  
+  Concurrent C server simulating an **atom-molecule model**, featuring TCP, UDP and Unix domain sockets, shared-memory persistence and a command-driven protocol.  
 
-- **[Reversi-Game](https://github.com/Raz99/Reversi-Game)**  
+- **[Reversi-Game](https://github.com/Raz99/Reversi-Game) (Java | OOP)**  
   Extended Java Othello game with **custom disc mechanics**, AI opponents and a Swing-based GUI, developed as part of an Object-Oriented Programming project.  
 
-- **[Coup-Game](https://github.com/Raz99/Coup-Game)**  
-  C++ implementation of the **popular Coup card game**, built with SFML for GUI and designed with OOP patterns (inheritance & polymorphism).  
+- **[Coup-Game](https://github.com/Raz99/Coup-Game) (C++ | OOP, SFML)**  
+  C++ implementation of the **popular Coup card game**, built with SFML for GUI and designed with OOP patterns (inheritance & polymorphism).
 
-- **[Network-Traffic-Analysis](https://github.com/Raz99/Network-Traffic-Analysis)**  
+- **[Phishing Email](https://github.com/Raz99/Coup-Game) (Python | Security)**  
+  A lab-controlled phishing simulator with social engineering emails, malicious attachments, and DNS tunneling for safe demonstration of cyber threats.
+
+- **[Network-Traffic-Analysis](https://github.com/Raz99/Network-Traffic-Analysis) (Python | Network)**  
   Research project analyzing **encrypted network traffic** via Wireshark & TLS key decryption, comparing application patterns and fingerprinting techniques.  
 
 ---
