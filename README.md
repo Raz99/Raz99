@@ -56,4 +56,4 @@ Background in network security, system programming, object-oriented programming 
 ---
 
 ## Contact
-- [LinkedIn](https://www.linkedin.com/in/raz-cohen-p) | [Email](mailto:RazCohenP@gmail.com) | [GitHub](https://github.com/Raz99)
+- [Email](mailto:RazCohenP@gmail.com) | [LinkedIn](https://www.linkedin.com/in/raz-cohen-p) | [GitHub](https://github.com/Raz99)
